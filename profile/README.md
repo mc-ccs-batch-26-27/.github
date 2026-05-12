@@ -129,6 +129,7 @@
     2. Moral, John Paulo
     3. Jalimao, John Vincent
     4. Clutario, Kaycee
+    5. Cadag, Aeruz Jay
 
 * [tech-innovators](https://github.com/orgs/mc-ccs-batch-26-27/teams/tech-innovators)
     1. Royo, Jerwin
