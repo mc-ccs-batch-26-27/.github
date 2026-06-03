@@ -148,7 +148,7 @@
 
 | Team | Adviser | Panel | Links |
 | --- | --- | --- | --- |
-| sumbong-squad | Sir Rain | Sir Kevin | [📄](https://github.com/mc-ccs-batch-26-27/documentation-repository-gitgud-1) |
+| sumbong-squad | Sir Rain | Sir Kevin | [📄](https://github.com/mc-ccs-batch-26-27/documentation-repository-sumbong-squad-1) |
 | teampayaman | Sir Kevin | Sir Ian | [📄](https://github.com/mc-ccs-batch-26-27/documentation-repository-teampayaman-1) |
 | gitgud | Sir Ian | Sir Eddie | [📄](https://github.com/mc-ccs-batch-26-27/documentation-repository-gitgud-1) |
 | ctrl-alt-thesis | Sir Eddie | Sir Rain | [📄](https://github.com/mc-ccs-batch-26-27/documentation-repository-ctrl-alt-thesis) |
