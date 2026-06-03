@@ -158,7 +158,7 @@
 | ths-26-27-junkyrats-tech | Sir Kevin | Sir Rain | [📄](https://github.com/mc-ccs-batch-26-27/documentation-repository-junkyrats-tech-5) |
 | outcast | Sir Kevin | Sir Rain | [📄](https://github.com/mc-ccs-batch-26-27/documentation-repository-outcast) |
 | team-ppol | Sir Kevin | Sir Ian | [📄](https://github.com/mc-ccs-batch-26-27/documentation-repository-team-jpol) |
-| autumn-8 | Sir Kevin | Sir Ian | [📄](https://github.com/mc-ccs-batch-26-27/documentation-repository-dozecore) |
+| autumn-8 | Sir Kevin | Sir Ian | [📄](https://github.com/mc-ccs-batch-26-27/documentation-repository-autumn-8) |
 | summer | Sir Kevin | Sir Ian | [📄](https://github.com/mc-ccs-batch-26-27/documentation-repository-summer) |
 | ths101-wonder-pets | Sir Rain | Sir Kevin | [📄](https://github.com/mc-ccs-batch-26-27/documentation-repository-ths101-wonder-pets-3) |
 | dozecore | Sir Rain | Sir Kevin | [📄](https://github.com/mc-ccs-batch-26-27/documentation-repository-dozecore) |
