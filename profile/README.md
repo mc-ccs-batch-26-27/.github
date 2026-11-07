@@ -18,11 +18,16 @@
     2. Briongos, Brix
     3. Carido, Joan
     4. Merilla, Ivy
-    5. Yanto, Angelica
+    5. Laguardia, Adrian Mark
+    6. Yanto, Angelica
 
 * [autumn-8](https://github.com/orgs/mc-ccs-batch-26-27/teams/autumn-8)
     1. Adap, Al Jabbar
     2. Bacsal, Arvin
+    3. Banal, Mark Jeremy
+    4. Zabala, Jam Harvin
+    5. Quiozon, John Erick
+    6. Quintela, Gilbert
 
 * [bmmle-nexus](https://github.com/orgs/mc-ccs-batch-26-27/teams/bmmle-nexus)
     1. Medalla, Arl Reland
@@ -30,11 +35,15 @@
     3. Mandras, Cate
     4. Laguador, Jake
     5. Era, Ken James
+    6. Ubaña, Julie Ann
 
 * [brainwired](https://github.com/orgs/mc-ccs-batch-26-27/teams/brainwired)
     1. Datog, Cristian Dave
     2. Datog, Jermaine
-    3. Barcela, Jhocer
+    3. Vargas, Jordan
+    4. Barcela, Jhocer
+    5. Gasanara, Muanif
+    6. Sayson, Francis Ernest
 
 * [ctrl-alt-thesis](https://github.com/orgs/mc-ccs-batch-26-27/teams/ctrl-alt-thesis)
     1. Matito, Jose Jerico
@@ -43,38 +52,37 @@
     4. San Luis, Ralph Maureen
     5. Sarte, Tim Jaztin
 
-* [cykos](https://github.com/orgs/mc-ccs-batch-26-27/teams/cykos)
-    1. Ubaña, Julie Ann
-    2. Laguardia, Adrian Mark
-    3. Gutierrez, Joshua
-    4. De Rosa, Josiel
-
 * [dozecore](https://github.com/orgs/mc-ccs-batch-26-27/teams/dozecore)
     1. Serrano, Giedhell Ann
-    2. Abadeza, Kyle Francis
-    3. Borgonia, John Michael
-    4. Lagsa, Cyrus Joe
+    2. Bañano, Janelle
+    3. Lachica, Charles Kenneth
+    4. Abadeza, Kyle Francis
+    5. Borgonia, John Michael
+    6. Lagsa, Cyrus Joe
 
 * [gastisyon](https://github.com/orgs/mc-ccs-batch-26-27/teams/gastisyon)
     1. Tabirara, Jeric
     2. Factor, Regie Lei
     3. Lopez, Erwin
     4. Bana, Eya Mae
-    5. Asis, Karen Claire
+    5. Kambong, Jericho
+    6. Asis, Karen Claire
 
 * [gitgud](https://github.com/orgs/mc-ccs-batch-26-27/teams/gitgud)
     1. Baquiran, Jan Kirby
     2. Esperas, Rex
     3. Pendras, Jericho
     4. Carbaquil, Justin
-    5. Entong, Eduard John
+    5. Turla, Alexander
+    6. Entong, Eduard John
 
 * [ths-26-27-junkyrats-tech](https://github.com/orgs/mc-ccs-batch-26-27/teams/ths-26-27-junkyrats-tech)
     1. Ulat, John Elijah
     2. Balon, Niccolo
     3. Mojico, Kimel Jan
-    4. Doctor, Alexander
-    5. Mabeza, John Frances
+    4. Hirang, Angelo Joven
+    5. Doctor, Alexander
+    6. Mabeza, John Frances
 
 * [noire](https://github.com/orgs/mc-ccs-batch-26-27/teams/noire)
     1. Murillon, Aaron Day
@@ -82,6 +90,7 @@
     3. Pajarillo, Veronica
     4. Agripa, Jhon Carlo
     5. Babila, Justin
+    6. De Rosa, Josiel
 
 * [outcast](https://github.com/orgs/mc-ccs-batch-26-27/teams/outcast)
     1. Racho, Jan Andrye
@@ -89,6 +98,7 @@
     3. Chavez, Matthew Kyle
     4. Lukban, Roan Brylle
     5. Vega, Robin Celso
+    6. Gonzales, John Paolo
 
 * [ths-26-27-procrastinators-united](https://github.com/orgs/mc-ccs-batch-26-27/teams/ths-26-27-procrastinators-united)
     1. Bacos, Francis
@@ -96,6 +106,7 @@
     3. Dela Cruz, Glory Jie
     4. Dacillo, Christian
     5. Balangbang, Dranreb Wen
+    6. Longenos, Jarvy Joy
 
 * [succulents](https://github.com/orgs/mc-ccs-batch-26-27/teams/succulents)
     1. Velasco, Eros
@@ -103,6 +114,7 @@
     3. Mayor, James Patrick
     4. Velasco, Jay Ann
     5. Notario, Rachell Kae
+    6. Gutierrez, Joshua
 
 * [sumbong-squad](https://github.com/orgs/mc-ccs-batch-26-27/teams/sumbong-squad)
     1. Lelis, Emman
@@ -110,11 +122,6 @@
     3. Roldan, Aron
     4. Tychingco, Selene
     5. Ubalde, Renalyn
-
-* [summer](https://github.com/orgs/mc-ccs-batch-26-27/teams/summer)
-    1. España, Steven James
-    2. Malabag, Kenn Jovann
-    3. Lasac, Joshua Romel
 
 * [team-ppol](https://github.com/orgs/mc-ccs-batch-26-27/teams/team-ppol)
     1. Sistoso, Jhon Paul
@@ -133,16 +140,23 @@
 
 * [tech-innovators](https://github.com/orgs/mc-ccs-batch-26-27/teams/tech-innovators)
     1. Royo, Jerwin
-    2. Parale, James Allen
-    3. Barrera, Sharyn
-    4. Sulit, John Lloyd
-    5. Ong, Rose Ann
+    2. Santos, Nicko Hale
+    3. Parale, James Allen
+    4. Barrera, Sharyn
+    5. Sulit, John Lloyd
+    6. Ong, Rose Ann
 
 * [ths101-wonder-pets](https://github.com/orgs/mc-ccs-batch-26-27/teams/ths101-wonder-pets)
     1. Fernandez, Joenald
     2. Murillon, La Zaile
     3. Rebogbog, Christian
-
+    4. Rodriguez, Kurt Axel
+ 
+* [summer](https://github.com/orgs/mc-ccs-batch-26-27/teams/summer)
+    1. España, Steven James
+    2. Malabag, Kenn Jovann
+    3. Lasac, Joshua Romel
+    4. Ibita, Jammel
 
 ## Advisory and Panel Assignment
 
