@@ -170,11 +170,9 @@
 | bmmle-nexus | Sir Kevin | Sir Ian | [📄](https://github.com/mc-ccs-batch-26-27/documentation-repository-bmmle-nexus) |
 | tech-innovators | Sir Ian | Sir Eddie | [📄](https://github.com/mc-ccs-batch-26-27/documentation-repository-tech-innovators-1) |
 | ths-26-27-junkyrats-tech | Sir Eddie | Sir Rain | [📄](https://github.com/mc-ccs-batch-26-27/documentation-repository-junkyrats-tech-5) |
-| outcast | Sir Kevin | Sir Ian | [📄](https://github.com/mc-ccs-batch-26-27/documentation-repository-outcast) |
+| outcast | Sir Ian | Sir Eddie | [📄](https://github.com/mc-ccs-batch-26-27/documentation-repository-outcast) |
 | team-ppol | Sir Eddie | Sir Kevin | [📄](https://github.com/mc-ccs-batch-26-27/documentation-repository-team-jpol) |
 | autumn-8 | Sir Rain | Sir Eddie | [📄](https://github.com/mc-ccs-batch-26-27/documentation-repository-autumn-8) |
-| summer | Sir Kevin | Sir Ian | [📄](https://github.com/mc-ccs-batch-26-27/documentation-repository-summer) |
-| ths101-wonder-pets | Sir Ian | Sir Eddie | [📄](https://github.com/mc-ccs-batch-26-27/documentation-repository-ths101-wonder-pets-3) |
 | dozecore | Sir Eddie | Sir Rain | [📄](https://github.com/mc-ccs-batch-26-27/documentation-repository-dozecore) |
 | cykos | Sir Rain | Sir Kevin | [📄](https://github.com/mc-ccs-batch-26-27/documentation-repository-cykos-1) |
 | noire | Sir Kevin | Sir Ian | [📄](https://github.com/mc-ccs-batch-26-27/documentation-repository-noire) |
@@ -182,3 +180,5 @@
 | succulents | Sir Rain | Sir Kevin | [📄](https://github.com/mc-ccs-batch-26-27/documentation-repository-succulents-1) |
 | ths-26-27-procrastinators-united | Sir Kevin | Sir Ian | [📄](https://github.com/mc-ccs-batch-26-27/documentation-repository-procrastinators-united-1) |
 | 5ghz | Sir Ian | Sir Rain | [📄](https://github.com/mc-ccs-batch-26-27/documentation-repository-5ghz) |
+| summer | Sir Kevin | Sir Ian | [📄](https://github.com/mc-ccs-batch-26-27/documentation-repository-summer) |
+| ths101-wonder-pets | Sir Ian | Sir Eddie | [📄](https://github.com/mc-ccs-batch-26-27/documentation-repository-ths101-wonder-pets-3) |
